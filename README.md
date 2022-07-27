@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+#### I'm a Full-Stack Web Developer in Los Angeles
+
+##### NOW
+ - Working at [Coding Dojo](https://www.codingdojo.com/) as a Lead Instructor
+
+
+##### BIO
+- 📫 Reach me: [linkedin](https://www.linkedin.com/in/edwardim/)
+- ⚡️ Fun fact: I'm a massive fan of Dune. "I must not fear"
+
+[![Edward Im GitHub stats](https://github-readme-stats.vercel.app/api?username=edwarddim&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **edwarddim/edwarddim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
