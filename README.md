@@ -11,11 +11,13 @@
 - 📫 Reach me: [linkedin](https://www.linkedin.com/in/edwardim/)
 - ⚡️ Fun fact: I'm a massive fan of Dune. "I must not fear"
 
-!\[my badge\](https://badgen.net/badge/hello/world/red?icon=twitter)
 
 [![Edward Im GitHub stats](https://github-readme-stats.vercel.app/api?username=edwarddim&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- <div style="text-align:center">
 
+![my badge](https://badgen.net/badge/icon/VisualStudio?icon=visualstudio&label)
+</div> -->
 
 
 <!--
